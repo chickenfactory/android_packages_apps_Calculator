@@ -29,7 +29,6 @@
   <string name="mod">mod</string>
   <string name="matrix">Panneau matrice</string>
   <string name="graph">Panneau graphique</string>
-  <string name="function">Panneau fonction</string>
   <string name="hexPanel">Panneau hexadécimal</string>
   <string name="lock">Verrouiller la page</string>
   <string name="unlock">Déverrouiller la page</string>
@@ -40,12 +39,6 @@
   <string name="hideHistory">Masquer l\'historique</string>
   <string name="settings">Paramètres</string>
   <string name="det">det</string>
-  <string name="eigenvalue">Val.</string>
-  <string name="solve">Résoudre</string>
-  <string name="dotProduct">Dot</string>
-  <string name="crossProduct">Cross</string>
-  <string name="determinantDesc">Déterminant</string>
-  <string name="eigenvalueDesc">Valeur propre</string>
   <string name="plus_row">+Lig</string>
   <string name="minus_row">-Lig</string>
   <string name="plus_col">+Col</string>
@@ -62,7 +55,6 @@
   <string name="pref_actions">Actions</string>
   <string name="pref_units">Unités</string>
   <string name="pref_theme">Thème</string>
-  <string name="pref_about">À propos</string>
   <string name="returnToBasic">Retourner au menu simple</string>
   <string name="infiniteScrolling">Défilement infini</string>
   <string name="clickToOpenHistory">Appuyer pour afficher l\'historique</string>
@@ -70,7 +62,6 @@
   <string name="trigUnits">Unité trigo.</string>
   <string name="radians">RAD</string>
   <string name="degrees">DEG</string>
-  <string name="theme">Thème</string>
   <string name="showDetails">Afficher les détails</string>
   <string name="floatingCalc">Calculatrice flottante</string>
   <string name="vibrateOnPress">Vibrer à l\'appui</string>
@@ -83,12 +74,11 @@
   <string name="cling_hex_msg">Basculer entre décimal (dec), binaire (bin), et hexadécimal (hex).\n\nAttention: si vous obtenez un résultat erroné, vous êtes probablement dans une mauvaise base. Par défaut la base est en décimal.</string>
   <string name="cling_graph_title">Graphique</string>
   <string name="cling_graph_msg">Les graphiques seront automatiquement affichés ici. Allez dans le panneau avancé et rentrez une fonction en utilisant X et Y.</string>
-  <string name="cling_dismiss">Ok</string>
+  <string name="cling_dismiss">OK</string>
   <string name="bin_separator">\u0020</string>
   <string name="hex_separator">\u0020</string>
   <string name="dot">,</string>
   <string name="easter_egg">Magicarpe utilise Trempette, mais rien ne se passe.</string>
-  <string name="glass_start">Calculer</string>
   <string name="voice_detection_failed">Calcul échoué. Réessayer ?</string>
   <string name="voice_detection_repeat">Calculer à nouveau ?</string>
   <string name="speech_helper_negative" formatted="false">Négatif %s</string>
